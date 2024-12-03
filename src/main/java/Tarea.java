@@ -6,7 +6,7 @@ public class Tarea {
 
   public void setTitulo(String titulo) {
     if (titulo == null) {
-      throw new NullPointerException("El título no puede ser nulo"); // Introducir posible NullPointerException.
+      throw new NullPointerException("El título no puede ser nuloo"); // Introducir posible NullPointerException.
     }
     this.titulo = titulo;
   }
